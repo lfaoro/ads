@@ -3,10 +3,11 @@
 > algorithms + datastructures = programs by niklaus wirth
 
 ## Algorithms
-- [] Insertion sort
-- [] Partition sort
-- [] Tree sort
-- [] Sliding window
+- [x] [Selection sort](algos/sorting.go)
+- [ ] Insertion sort
+- [ ] Partition sort
+- [ ] Tree sort
+- [ ] Sliding window
 
 ## Data structures
 - [x] [Queue](datas/queue/queue.go)
